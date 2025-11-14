@@ -157,7 +157,7 @@ Make sure:
 
 Visit:
 
-👉 [https://share.streamlit.io](https://share.streamlit.io)
+👉 https://loandefaultprediction-sygptumgivnwk2endmvsui.streamlit.app/
 
 Log in with GitHub.
 
